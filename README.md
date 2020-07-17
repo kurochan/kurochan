@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://raw.githubusercontent.com/kurochan/kurochan/master/images/header.png "Hi there!")
 
 <!--
 **kurochan/kurochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
